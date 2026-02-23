@@ -2,7 +2,7 @@
 *Author: Leon Henning https://github.com/Leon-Henning-source
 *Date: 23.02.2026
 *Book: C Programming - A Modern Approach second edition by K. N. King
-*Chapter: 2
+*Chapter: 2 - C Fundamentals
 *Exercise: 3
 *Program Name: dweight
 *Purpose: Condense the dweight.c program by (1) replacing the

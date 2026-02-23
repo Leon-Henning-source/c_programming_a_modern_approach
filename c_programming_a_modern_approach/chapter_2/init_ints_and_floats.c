@@ -2,7 +2,7 @@
 *Author: Leon Henning https://github.com/Leon-Henning-source
 *Date: 23.02.2026
 *Book: C Programming - A Modern Approach second edition by K. N. King
-*Chapter: 2
+*Chapter: 2 - C Fundamentals
 *Exercise: 4
 *Program Name: init_ints_and_floats
 *Purpose: Write a program that declares several int and float
