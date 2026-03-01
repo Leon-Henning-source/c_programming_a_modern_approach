@@ -20,8 +20,8 @@ int main(void)
 
 	const int TAX_RATE = 5;
 	float after_tax_amount = 0.0f;
-	const int TO_PERCENT = 100;
-	after_tax_amount = TAX_RATE / user_dollar_and_cent_amount * TO_PERCENT;
+	const int TO_PERCENTAGE = 100;
+	after_tax_amount = TAX_RATE / user_dollar_and_cent_amount * TO_PERCENTAGE;
 
 	float result = user_dollar_and_cent_amount + after_tax_amount;
 
