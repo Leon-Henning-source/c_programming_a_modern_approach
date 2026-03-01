@@ -17,13 +17,16 @@
 
 int main(void)
 {
-	int user_radius_input = 10;
+	printf("%s\n", "Enter the radius to calculate sphere volume: ");
+	int user_radius_input = 0;
+	scanf("%d", &user_radius_input);
+	
 	int radius_exponent_calculation = user_radius_input * user_radius_input *user_radius_input;
 	const float PI = 3.14159f;
 	
 	float sphere_volume = (4.0f / 3.0f) * PI * radius_exponent_calculation;
 
-	printf("%s%.2f", "Sphere volume: ", sphere_volume);
+	printf("%s%.2f\n", "Sphere volume: ", sphere_volume);
 
 	return 0;
 }
