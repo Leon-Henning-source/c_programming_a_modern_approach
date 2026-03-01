@@ -37,6 +37,11 @@ int main(void)
 	int full_result = polynomial_step_1 + polynomial_step_2 - polynomial_step_3 - polynomial_step_4 + polynomial_step_5 - polynomial_step_6;
 
 	printf("%s%d\n", "Polynomial result: ", full_result);
-	
+
+	int second_polynomial_result = 0;
+	second_polynomial_result = ((((3 * x + 2) * x - 5) * x - 1) * x + 7) * x - 6;
+
+	printf("%s%d\n", "Second polynomial result: ", second_polynomial_result);
+
 	return 0;
 }
