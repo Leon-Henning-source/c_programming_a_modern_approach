@@ -17,7 +17,7 @@
 
 int main(void)
 {
-	printf("%s\n", "Enter the radius to calculate sphere volume: ");
+	printf("%s", "Enter the radius to calculate sphere volume: ");
 	int user_radius_input = 0;
 	scanf("%d", &user_radius_input);
 	
