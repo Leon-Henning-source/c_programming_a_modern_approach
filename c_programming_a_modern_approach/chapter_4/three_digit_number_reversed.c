@@ -4,7 +4,7 @@
 *Book: C Programming - A Modern Approach second edition by K. N. King
 *Chapter: 4 - Expressions
 *Programming Project: 2
-*Program Name: two_digit_number_reversed
+*Program Name: three_digit_number_reversed
 *Purpose: Extend the program in Programming Project 1 to handle
 *three-digit numbers.
 */
