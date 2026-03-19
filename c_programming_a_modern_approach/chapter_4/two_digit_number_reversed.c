@@ -24,6 +24,7 @@ int main(void)
 	scanf("%d", &user_number);
 
 	int first_digit_reversed = 0;
+
 	int second_digit_reversed = 0;
 
 	first_digit_reversed = user_number % 10;
